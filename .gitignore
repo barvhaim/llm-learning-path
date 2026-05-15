@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (don't commit large files)
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+
+# Data
+data/
+datasets/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+wandb/
+runs/
