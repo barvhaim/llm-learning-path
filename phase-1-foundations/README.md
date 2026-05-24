@@ -14,7 +14,7 @@
 
 ### Neural Networks
 - [ ] [3Blue1Brown — Neural Networks series](https://www.youtube.com/watch?v=I9v8efdO6vs) — Beautiful visual explanation
-- [ ] [Karpathy — Neural Networks: Zero to Hero (Full Playlist)](https://www.youtube.com/@AndrejKarpathy/playlists) — Build everything from scratch in Python
+- [ ] [Karpathy — Neural Networks: Zero to Hero (Full Playlist)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) — Build everything from scratch in Python
   - Especially: "The spelled-out intro to neural networks and backpropagation"
   - And: "Building makemore" parts 1-5
 - [ ] [Stanford CS231n — CNNs for Visual Recognition](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
