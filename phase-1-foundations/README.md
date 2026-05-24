@@ -13,7 +13,7 @@
 - [ ] [StatQuest — Probability Fundamentals](https://www.youtube.com/c/joshstarmer) — Bayes, distributions
 
 ### Neural Networks
-- [ ] [3Blue1Brown — Neural Networks series](https://www.youtube.com/watch?v=I9v8efdO6vs) — Beautiful visual explanation
+- [ ] [3Blue1Brown — Neural Networks series](https://www.youtube.com/watch?v=aircAruvnKk) — Beautiful visual explanation
 - [ ] [Karpathy — Neural Networks: Zero to Hero (Full Playlist)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) — Build everything from scratch in Python
   - Especially: "The spelled-out intro to neural networks and backpropagation"
   - And: "Building makemore" parts 1-5
