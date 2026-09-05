@@ -66,6 +66,7 @@
 
 ### Newsletters
 - The Batch (Andrew Ng) — Weekly summary
+- [AI Weekly](https://aiweekly.co/) — Discover what AI experts are reading and sharing right now
 - Import AI (Jack Clark) — Technical + policy
 - TLDR AI — Daily digest
 
